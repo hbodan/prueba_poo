@@ -58,6 +58,13 @@
             <artifactId>postgresql</artifactId>
             <version>42.7.8</version>
         </dependency>
+
+        <!-- Jakarta EL (implementación) -->
+        <dependency>
+            <groupId>org.glassfish.expressly</groupId>
+            <artifactId>expressly</artifactId>
+            <version>6.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>
